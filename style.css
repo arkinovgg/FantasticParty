@@ -1,0 +1,119 @@
+body {
+    font-family sans-serif;
+}
+
+header {
+    padding 10px;
+    background-color white;
+    border 3px solid navy;
+    border-radius 10px;
+    color navy;
+}
+
+a {
+    text-decoration none;
+}
+
+header a {
+    color white;
+    background-color navy;
+    border 1px solid navy;
+    border-radius 7px;
+    padding 5px 10px;
+    margin-left 10px;
+}
+
+main h1 {
+    background-color #AFEEEE;
+    padding 1px 5px;
+    color navy;
+    border 3px solid navy;
+    border-radius 7px;
+}
+
+footer {
+    color navy;
+    border 3px solid navy;
+    border-radius 7px;
+    padding 0px 5px;
+}
+
+nav {
+    text-align center;
+    margin-top 15px;
+}
+
+nav a {
+    text-align center;
+    margin-right 60px;
+    padding 3px 15px;
+    text-decoration none;
+    color navy;
+    border 3px solid navy;
+    border-radius 7px;
+}
+
+.Prod {
+    background-color navy;
+    color white;
+}
+
+.Firework {
+    border 3px solid navy;
+    padding 6px 10px;
+    border-radius 7px;
+    background-color #AFEEEE;
+    color navy;
+}
+
+#price {
+    color navy;
+}
+
+#discount {
+    color navy;
+}
+
+#delivery {
+    color navy;
+}
+
+.contact {
+    color navy;
+    border 3px solid navy;
+    border-radius 7px;
+    padding 2px 10px;
+    font-size 32px;
+}
+
+#wholesale {
+    color navy;
+    font-size 36px;
+}
+
+.skidka {
+    border 3px solid navy;
+    color navy;
+    border-radius 7px;
+    padding 6px 10px;
+}
+
+#about_us {
+    color navy;
+}
+
+.Up {
+    color navy;
+    border 3px solid navy;
+    border-radius 7px;
+    padding 6px 10px;
+    margin-top 150px;
+}
+
+footer {
+    margin-top 30px;
+}
+
+.LogoUp {
+    margin-bottom 17px;
+}
